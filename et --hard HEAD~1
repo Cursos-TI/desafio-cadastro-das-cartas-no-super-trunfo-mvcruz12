@@ -1,0 +1,67 @@
+[33mcommit cf4cee5d93d4f14842a7895476f8616cf8fe5dc9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Marcus Vinicius Pimenta da Cruz <mvcruz12@gmail.com>
+Date:   Wed Apr 16 01:37:23 2025 +0000
+
+    Revert "Desafio Novato Finalizado"
+    
+    This reverts commit 9085fcb4bca95a95c447c56ff6f4dace41758478.
+
+[33mcommit 9085fcb4bca95a95c447c56ff6f4dace41758478[m
+Author: Marcus Vinicius Pimenta da Cruz <mvcruz12@gmail.com>
+Date:   Mon Apr 14 20:53:18 2025 +0000
+
+    Desafio Novato Finalizado
+
+[33mcommit 1f30e2e764fbd1f07903f92d356db1d622e1e9b7[m
+Author: Marcus Vinicius Pimenta da Cruz <mvcruz12@gmail.com>
+Date:   Mon Apr 14 20:18:43 2025 +0000
+
+    Atualizado
+
+[33mcommit 32a705a60cb5650843a967d56c43e61750ac9d53[m
+Author: Marcus Vinicius Pimenta da Cruz <mvcruz12@gmail.com>
+Date:   Mon Apr 14 19:51:08 2025 +0000
+
+    Desafio novato concluído
+
+[33mcommit 1e39db05ae59ae6d1df4df0496c735e55ed25f75[m
+Author: Marcus Vinicius Pimenta da Cruz <mvcruz12@gmail.com>
+Date:   Sun Apr 6 01:23:06 2025 +0000
+
+    Concluído
+
+[33mcommit 96a228ba742705b070e76b7e7e34c26b1e85403d[m
+Author: Marcus Vinicius Pimenta da Cruz <mvcruz12@gmail.com>
+Date:   Sat Apr 5 18:40:26 2025 +0000
+
+    Criação printf
+
+[33mcommit 0e57f90ec75b3b527d7fa4b61fc90985cf3c1a61[m
+Author: Cursos de Tecnologia da Informação <164575969+Cursos-de-Teconologia-da-Informacao@users.noreply.github.com>
+Date:   Fri Feb 21 07:24:54 2025 -0300
+
+    Update README.md
+
+[33mcommit 73405f9618d96989c8c2245ecd71791f57ce1d33[m
+Author: Cursos de Tecnologia da Informação <164575969+Cursos-de-Teconologia-da-Informacao@users.noreply.github.com>
+Date:   Wed Feb 19 17:51:44 2025 -0300
+
+    Update README.md
+
+[33mcommit c6a6c60a801a4efc5573a31acac561c09ef5dc31[m
+Author: Cursos de Tecnologia da Informação <164575969+Cursos-de-Teconologia-da-Informacao@users.noreply.github.com>
+Date:   Mon Dec 9 15:56:30 2024 -0300
+
+    Update CartasSuperTrunfo.c
+
+[33mcommit 158ef1409a5e07ef002f6172095ad0f62f3a9fef[m
+Author: Cursos de Tecnologia da Informação <164575969+Cursos-de-Teconologia-da-Informacao@users.noreply.github.com>
+Date:   Tue Aug 27 18:08:11 2024 -0300
+
+    Update CartasSuperTrunfo.c
+
+[33mcommit 02fc379ae64c2ee60a49f0ff15d5c0b85791a9e5[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Aug 27 20:46:09 2024 +0000
+
+    Initial commit
